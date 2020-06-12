@@ -1,0 +1,4 @@
+AuthName "Authorised Users Only"
+AuthType "Basic"
+AuthUserFile /home/a30026016/.user
+require valid-user
